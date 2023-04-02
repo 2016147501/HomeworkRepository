@@ -1,0 +1,36 @@
+h1{
+    width: 1000px;
+    height: 70px;
+    text-align: center;
+    background-color: azure;
+    border: 2px solid #2dc7e2;
+    padding-top: 20px;
+    margin: 20px;
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgba(14, 180, 202, 0.87);
+}
+
+#btn{
+    padding: 10px;
+}
+
+#signup_btn, #login_btn{
+    font-size: 120%;
+    background-color:#1cc95e;
+    padding: 10px 30px;
+}
+
+#cancel_btn{
+    margin-left: 5px;
+    font-size: 120%;
+    background-color:rgb(196, 24, 18);
+    padding: 10px 30px;
+}
+
+#join_btn{
+    margin-left: 5px;
+    font-size: 120%;
+    background-color:rgb(43, 134, 219);
+    padding: 10px 30px;
+}
